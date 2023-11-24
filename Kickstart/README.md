@@ -35,16 +35,7 @@ SecureKickstart is a decentralized application built on Ethereum using Solidity 
    - Visit `http://localhost:3000` in your browser to interact with the application.
    - Create campaigns, contribute, and manage expenditure requests.
 
-## Contributing
-
-Contributions to SecureKickstart are welcome! To contribute, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m "Add new feature"`
-4. Push to the branch: `git push origin feature-name`
-5. Create a pull request describing your changes.
-
+5. Network Chain Goerli testnet
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
